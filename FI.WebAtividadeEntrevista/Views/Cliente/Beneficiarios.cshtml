@@ -1,0 +1,36 @@
+@{
+    ViewData["Title"] = "Beneficiários";
+}
+
+<form id="formBeneficiario" method="post">
+    <div class="modal fade" id="beneficiariosModal" tabindex="-1" role="dialog" aria-labelledby="beneficiariosModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="beneficiariosModalLabel">Beneficiários</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="CPF">CPF:</label>
+                        <input type="text" class="form-control" id="CPF" placeholder="Ex: 010.011.111-00">
+                    </div>
+                    <div class="form-group">
+                        <label for="Nome">Nome:</label>
+                        <input type="text" class="form-control" id="Nome" placeholder="Ex: Maria">
+                    </div>
+                    <button type="submit" id="incluirBtn" class="btn btn-success">Incluir</button>
+                    <hr>
+                    <table id="gridBeneficiarios" class="table"></table>    
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+

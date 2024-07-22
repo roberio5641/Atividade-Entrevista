@@ -1,0 +1,677 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|c:\\users\\thejk\\onedrive\\\u00E1rea de trabalho\\atividadeentrevista\\fi.webatividadeentrevista\\controllers\\beneficiariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\controllers\\beneficiariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|c:\\users\\thejk\\onedrive\\\u00E1rea de trabalho\\atividadeentrevista\\fi.webatividadeentrevista\\scripts\\beneficiarios\\fi.beneficiarios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\scripts\\beneficiarios\\fi.beneficiarios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\views\\cliente\\beneficiarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\views\\cliente\\beneficiarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\views\\cliente\\alterar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\views\\cliente\\alterar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\scripts\\clientes\\fi.clientes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\scripts\\clientes\\fi.clientes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\views\\cliente\\forms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\views\\cliente\\forms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\views\\cliente\\incluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\views\\cliente\\incluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\views\\beneficiario\\incluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\views\\beneficiario\\incluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\scripts\\clientes\\fi.altclientes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\scripts\\clientes\\fi.altclientes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\scripts\\beneficiarios\\fl.altbenef.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\scripts\\beneficiarios\\fl.altbenef.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\content\\utils\\cpfvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\content\\utils\\cpfvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\models\\beneficiariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\models\\beneficiariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B795BB7-A890-48FA-8F70-EF89F2E318D8}|FI.AtividadeEntrevista\\FI.AtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.atividadeentrevista\\dml\\beneficiarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B795BB7-A890-48FA-8F70-EF89F2E318D8}|FI.AtividadeEntrevista\\FI.AtividadeEntrevista.csproj|solutionrelative:fi.atividadeentrevista\\dml\\beneficiarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B795BB7-A890-48FA-8F70-EF89F2E318D8}|FI.AtividadeEntrevista\\FI.AtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.atividadeentrevista\\dal\\clientes\\daobeneficiarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B795BB7-A890-48FA-8F70-EF89F2E318D8}|FI.AtividadeEntrevista\\FI.AtividadeEntrevista.csproj|solutionrelative:fi.atividadeentrevista\\dal\\clientes\\daobeneficiarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\scripts\\clientes\\fi.listclientes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\scripts\\clientes\\fi.listclientes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\scripts\\beneficiarios\\fllistbenef.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\scripts\\beneficiarios\\fllistbenef.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thejk\\AppData\\Local\\Temp\\1pgnqsd4..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\App_Data\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FI.WebAtividadeEntrevista\\App_Data\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B795BB7-A890-48FA-8F70-EF89F2E318D8}|FI.AtividadeEntrevista\\FI.AtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.atividadeentrevista\\dal\\clientes\\procedures\\fi_sp_altcliente.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{2B795BB7-A890-48FA-8F70-EF89F2E318D8}|FI.AtividadeEntrevista\\FI.AtividadeEntrevista.csproj|solutionrelative:fi.atividadeentrevista\\dal\\clientes\\procedures\\fi_sp_altcliente.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B795BB7-A890-48FA-8F70-EF89F2E318D8}|FI.AtividadeEntrevista\\FI.AtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.atividadeentrevista\\dal\\clientes\\procedures\\fi_sp_conscliente.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{2B795BB7-A890-48FA-8F70-EF89F2E318D8}|FI.AtividadeEntrevista\\FI.AtividadeEntrevista.csproj|solutionrelative:fi.atividadeentrevista\\dal\\clientes\\procedures\\fi_sp_conscliente.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B795BB7-A890-48FA-8F70-EF89F2E318D8}|FI.AtividadeEntrevista\\FI.AtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.atividadeentrevista\\bll\\bocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B795BB7-A890-48FA-8F70-EF89F2E318D8}|FI.AtividadeEntrevista\\FI.AtividadeEntrevista.csproj|solutionrelative:fi.atividadeentrevista\\bll\\bocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B795BB7-A890-48FA-8F70-EF89F2E318D8}|FI.AtividadeEntrevista\\FI.AtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.atividadeentrevista\\dal\\padrao\\fi.acessodados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B795BB7-A890-48FA-8F70-EF89F2E318D8}|FI.AtividadeEntrevista\\FI.AtividadeEntrevista.csproj|solutionrelative:fi.atividadeentrevista\\dal\\padrao\\fi.acessodados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B795BB7-A890-48FA-8F70-EF89F2E318D8}|FI.AtividadeEntrevista\\FI.AtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.atividadeentrevista\\dal\\clientes\\daocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B795BB7-A890-48FA-8F70-EF89F2E318D8}|FI.AtividadeEntrevista\\FI.AtividadeEntrevista.csproj|solutionrelative:fi.atividadeentrevista\\dal\\clientes\\daocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B795BB7-A890-48FA-8F70-EF89F2E318D8}|FI.AtividadeEntrevista\\FI.AtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.atividadeentrevista\\dml\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B795BB7-A890-48FA-8F70-EF89F2E318D8}|FI.AtividadeEntrevista\\FI.AtividadeEntrevista.csproj|solutionrelative:fi.atividadeentrevista\\dml\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\fi.webatividadeentrevista\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA04BC2-EFC2-487F-8F40-A95C652F6A15}|FI.WebAtividadeEntrevista\\FI.WebAtividadeEntrevista.csproj|solutionrelative:fi.webatividadeentrevista\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "1pgnqsd4..sql",
+              "DocumentMoniker": "C:\\Users\\thejk\\AppData\\Local\\Temp\\1pgnqsd4..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\1pgnqsd4..sql",
+              "ToolTip": "C:\\Users\\thejk\\AppData\\Local\\Temp\\1pgnqsd4..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\1pgnqsd4..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-20T23:00:55.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\App_Data\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\App_Data\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\App_Data\\SQLQuery1.sql",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\App_Data\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-20T17:38:28.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FI.Beneficiarios.js",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Scripts\\Beneficiarios\\FI.Beneficiarios.js",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Scripts\\Beneficiarios\\FI.Beneficiarios.js",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Scripts\\Beneficiarios\\FI.Beneficiarios.js",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Scripts\\Beneficiarios\\FI.Beneficiarios.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-21T20:59:10.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Global.asax.cs",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Global.asax.cs",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T00:51:22.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Forms.cshtml",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Cliente\\Forms.cshtml",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Views\\Cliente\\Forms.cshtml",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Cliente\\Forms.cshtml",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Views\\Cliente\\Forms.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAewGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T18:04:40.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T23:12:54.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Beneficiarios.cshtml",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Cliente\\Beneficiarios.cshtml",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Views\\Cliente\\Beneficiarios.cshtml",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Cliente\\Beneficiarios.cshtml",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Views\\Cliente\\Beneficiarios.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T23:05:31.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DaoBeneficiarios.cs",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.AtividadeEntrevista\\DAL\\Clientes\\DaoBeneficiarios.cs",
+              "RelativeDocumentMoniker": "FI.AtividadeEntrevista\\DAL\\Clientes\\DaoBeneficiarios.cs",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.AtividadeEntrevista\\DAL\\Clientes\\DaoBeneficiarios.cs",
+              "RelativeToolTip": "FI.AtividadeEntrevista\\DAL\\Clientes\\DaoBeneficiarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T23:03:50.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Incluir.cshtml",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Beneficiario\\Incluir.cshtml",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Views\\Beneficiario\\Incluir.cshtml",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Beneficiario\\Incluir.cshtml",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Views\\Beneficiario\\Incluir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T22:57:37.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FlListBenef.js",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Scripts\\Beneficiarios\\FlListBenef.js",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Scripts\\Beneficiarios\\FlListBenef.js",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Scripts\\Beneficiarios\\FlListBenef.js",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Scripts\\Beneficiarios\\FlListBenef.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-21T21:09:48.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Fl.AltBenef.js",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Scripts\\Beneficiarios\\Fl.AltBenef.js",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Scripts\\Beneficiarios\\Fl.AltBenef.js",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Scripts\\Beneficiarios\\Fl.AltBenef.js",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Scripts\\Beneficiarios\\Fl.AltBenef.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-21T21:03:14.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CPFValidator.cs",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Content\\Utils\\CPFValidator.cs",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Content\\Utils\\CPFValidator.cs",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Content\\Utils\\CPFValidator.cs",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Content\\Utils\\CPFValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T20:31:53.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeneficiarioController.cs",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Controllers\\BeneficiarioController.cs",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Controllers\\BeneficiarioController.cs",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Controllers\\BeneficiarioController.cs",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Controllers\\BeneficiarioController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T20:08:15.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FI_SP_ConsCliente.sql",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.AtividadeEntrevista\\DAL\\Clientes\\Procedures\\FI_SP_ConsCliente.sql",
+              "RelativeDocumentMoniker": "FI.AtividadeEntrevista\\DAL\\Clientes\\Procedures\\FI_SP_ConsCliente.sql",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.AtividadeEntrevista\\DAL\\Clientes\\Procedures\\FI_SP_ConsCliente.sql",
+              "RelativeToolTip": "FI.AtividadeEntrevista\\DAL\\Clientes\\Procedures\\FI_SP_ConsCliente.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-20T23:08:20.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FI_SP_AltCliente.sql",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.AtividadeEntrevista\\DAL\\Clientes\\Procedures\\FI_SP_AltCliente.sql",
+              "RelativeDocumentMoniker": "FI.AtividadeEntrevista\\DAL\\Clientes\\Procedures\\FI_SP_AltCliente.sql",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.AtividadeEntrevista\\DAL\\Clientes\\Procedures\\FI_SP_AltCliente.sql",
+              "RelativeToolTip": "FI.AtividadeEntrevista\\DAL\\Clientes\\Procedures\\FI_SP_AltCliente.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-20T23:08:06.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAcwJsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:50:50.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BoCliente.cs",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.AtividadeEntrevista\\BLL\\BoCliente.cs",
+              "RelativeDocumentMoniker": "FI.AtividadeEntrevista\\BLL\\BoCliente.cs",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.AtividadeEntrevista\\BLL\\BoCliente.cs",
+              "RelativeToolTip": "FI.AtividadeEntrevista\\BLL\\BoCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:32:32.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DaoCliente.cs",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.AtividadeEntrevista\\DAL\\Clientes\\DaoCliente.cs",
+              "RelativeDocumentMoniker": "FI.AtividadeEntrevista\\DAL\\Clientes\\DaoCliente.cs",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.AtividadeEntrevista\\DAL\\Clientes\\DaoCliente.cs",
+              "RelativeToolTip": "FI.AtividadeEntrevista\\DAL\\Clientes\\DaoCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:32:46.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FI.AcessoDados.cs",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.AtividadeEntrevista\\DAL\\Padrao\\FI.AcessoDados.cs",
+              "RelativeDocumentMoniker": "FI.AtividadeEntrevista\\DAL\\Padrao\\FI.AcessoDados.cs",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.AtividadeEntrevista\\DAL\\Padrao\\FI.AcessoDados.cs",
+              "RelativeToolTip": "FI.AtividadeEntrevista\\DAL\\Padrao\\FI.AcessoDados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:56:20.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:46:46.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.AtividadeEntrevista\\DML\\Cliente.cs",
+              "RelativeDocumentMoniker": "FI.AtividadeEntrevista\\DML\\Cliente.cs",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.AtividadeEntrevista\\DML\\Cliente.cs",
+              "RelativeToolTip": "FI.AtividadeEntrevista\\DML\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:26:28.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FI.Clientes.js",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Scripts\\Clientes\\FI.Clientes.js",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Scripts\\Clientes\\FI.Clientes.js",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Scripts\\Clientes\\FI.Clientes.js",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Scripts\\Clientes\\FI.Clientes.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-20T17:56:48.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BeneficiarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Models\\BeneficiarioModel.cs",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Models\\BeneficiarioModel.cs",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Models\\BeneficiarioModel.cs",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Models\\BeneficiarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T19:21:01.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ClienteModel.cs",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Models\\ClienteModel.cs",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Models\\ClienteModel.cs",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Models\\ClienteModel.cs",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Models\\ClienteModel.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAA8wEoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:46:55.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:52:09.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Beneficiarios.cs",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.AtividadeEntrevista\\DML\\Beneficiarios.cs",
+              "RelativeDocumentMoniker": "FI.AtividadeEntrevista\\DML\\Beneficiarios.cs",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.AtividadeEntrevista\\DML\\Beneficiarios.cs",
+              "RelativeToolTip": "FI.AtividadeEntrevista\\DML\\Beneficiarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T19:17:45.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T18:04:48.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Web.config",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Web.config",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Web.config",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Web.config",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-20T19:41:48.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Web.config",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Web.config",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-20T19:57:39.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FI.ListClientes.js",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Scripts\\Clientes\\FI.ListClientes.js",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Scripts\\Clientes\\FI.ListClientes.js",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Scripts\\Clientes\\FI.ListClientes.js",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Scripts\\Clientes\\FI.ListClientes.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-20T17:57:52.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Alterar.cshtml",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Cliente\\Alterar.cshtml",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Views\\Cliente\\Alterar.cshtml",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Cliente\\Alterar.cshtml",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Views\\Cliente\\Alterar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T18:04:44.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FI.AltClientes.js",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Scripts\\Clientes\\FI.AltClientes.js",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Scripts\\Clientes\\FI.AltClientes.js",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Scripts\\Clientes\\FI.AltClientes.js",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Scripts\\Clientes\\FI.AltClientes.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-20T17:57:55.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T18:04:51.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T18:05:11.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T18:05:04.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T18:05:03.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Incluir.cshtml",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Cliente\\Incluir.cshtml",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\Views\\Cliente\\Incluir.cshtml",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\Views\\Cliente\\Incluir.cshtml",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\Views\\Cliente\\Incluir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T18:04:30.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwC8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:46:52.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "FI.WebAtividadeEntrevista\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\thejk\\OneDrive\\\u00C1rea de Trabalho\\AtividadeEntrevista\\FI.WebAtividadeEntrevista\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "FI.WebAtividadeEntrevista\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:46:44.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
