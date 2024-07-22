@@ -28,10 +28,7 @@ namespace WebAtividadeEntrevista.Controllers
             BoCliente bo = new BoCliente();
             
 
-            if(!CpfValidator.IsValid(model.CPF))
-            {
-                return Json(new {success  = true, error = "CPF Invalido" }); 
-            }
+            
 
             if (!this.ModelState.IsValid)
             {
@@ -51,7 +48,14 @@ namespace WebAtividadeEntrevista.Controllers
                     Response.StatusCode = 400;
                     return Json("O CPF já está em uso.");                  
                 }
-                    
+
+                
+                if (!CpfValidator.IsValid(model.CPF))
+                {
+                    Response.StatusCode = 400;
+                    return Json("CPF inválido.");
+                }
+
 
                 model.Id = bo.Incluir(new Cliente()
                 {                    
@@ -77,11 +81,7 @@ namespace WebAtividadeEntrevista.Controllers
         {
             BoCliente bo = new BoCliente();
 
-            if (!CpfValidator.IsValid(model.CPF))
-            {
-                return Json(new { success = false, message = "CPF inválido. O formato correto é 000.000.000-00." });
-            }
-
+           
             if (!this.ModelState.IsValid)
             {
                 List<string> erros = (from item in ModelState.Values
@@ -100,6 +100,13 @@ namespace WebAtividadeEntrevista.Controllers
                     Response.StatusCode = 400;
                     return Json("O CPF já está em uso.");
                 }
+
+                if (!CpfValidator.IsValid(model.CPF))
+                {
+                    Response.StatusCode = 400;
+                    return Json("CPF inválido.");
+                }
+
 
                 bo.Alterar(new Cliente()
                 {
